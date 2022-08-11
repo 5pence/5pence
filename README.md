@@ -1,8 +1,6 @@
-![5pence splash image](SBarrGithub.png) 
+ I'm Spencer, my first computer was a ZX81 and that's where the love affair started. I am currently working at L3Harris as a senioe specialised full stack developer using the MERN stack alongside Geospatial technologies. Before then I was in PwC (Price Waterhouse Coopers) as a programming senior manager, I looked after a team of around forty developers and worked together using Python (Django and Flask in particular), JS (Node, React and Vue too), the usual web front end stuff. Sometimes we get to play with Java, if you could call it that! 
 
-I'm Spencer, my first computer was a ZX81 and that's where the love affair started. I am currently working at PwC (Price Waterhouse Coopers) as a programming senior manager, I look after a team of around forty developers, my wonderful team, and I work together using Python (Django and Flask in particular), JS (Node, React and Vue too), the usual web front end stuff. Sometimes we get to play with Java, if you could call it that! 
-
-My GitHub at the moment isn't very active as at work we have our own private repos being that PwC is a financial conglomerate - but this will be changing soon as I am looking to change my place of work in January. PwC's been great but every albatross must spread its wings.
+My GitHub at the moment isn't very active as at work we have our own private repos being that L3Harris has its own private repos and PwC being a financial conglomerate.
 
 
 ### Languages
