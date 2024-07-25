@@ -1,6 +1,6 @@
- I'm Spencer, my first computer was a ZX81 and that's where the love affair started. I am currently working at Ocean Infinity, and before at L3Harris as a senior specialised full stack developer using the MERN stack alongside Geospatial technologies. Before then I was in PwC (Price Waterhouse Coopers) as a programming senior manager, I looked after a team of around forty developers and worked together using Python (Django and Flask in particular), JS (Node, React and Vue too), the usual web front end stuff. Sometimes we get to play with Java, if you could call it that! 
+ I'm Spencer, my first computer was a ZX81 and that's where the love affair started. I am currently contract working, recently at Ocean Infinity, and before at L3Harris as a senior specialised full stack developer using the MERN stack alongside Geospatial technologies. Before then I was in PwC (Price Waterhouse Coopers) as a programming senior manager, I looked after a team of around forty developers and worked together using Python (Django and Flask in particular), JS (Node, React and Vue too), the usual web front end stuff. Sometimes we get to play with Java, if you could call it that! 
 
-My GitHub at the moment isn't very active as at work we have our own private repos being that L3Harris has its own private repos and PwC being a financial conglomerate.
+My GitHub at the moment isn't very active as at work we have our own private repos.
 
 
 ### Languages
@@ -14,7 +14,3 @@ My GitHub at the moment isn't very active as at work we have our own private rep
 ### Tools, platforms and applications
 
 <img src="https://img.shields.io/badge/GitHub-grey.svg?logo=github"><img src="https://img.shields.io/badge/PyCharm-grey.svg?logo=pycharm"><img src="https://img.shields.io/badge/IntelliJIDEA-grey.svg?logo=intellijidea"><img src="https://img.shields.io/badge/GCP-grey.svg?logo=googlecloud"><img src="https://img.shields.io/badge/AWS-grey.svg?logo=amazonaws"><img src="https://img.shields.io/badge/MongoDB-grey.svg?logo=MongoDB"><img src="https://img.shields.io/badge/PostgreSQL-grey.svg?logo=PostgreSQL"><img src="https://img.shields.io/badge/Photoshop-grey.svg?logo=AdobePhotoshop"><img src="https://img.shields.io/badge/CircleCI-grey.svg?logo=CircleCI"><img src="https://img.shields.io/badge/DevExpress-grey.svg?logo=DevExpress"><img src="https://img.shields.io/badge/Jenkins-grey.svg?logo=Jenkins"><img src="https://img.shields.io/badge/Jetbrains-grey.svg?logo=JetBrains"><img src="https://img.shields.io/badge/MySQL-grey.svg?logo=mysql"><img src="https://img.shields.io/badge/NPM-grey.svg?logo=npm"><img src="https://img.shields.io/badge/PhpStorm-grey.svg?logo=phpstorm"><img src="https://img.shields.io/badge/Postman-grey.svg?logo=postman"><img src="https://img.shields.io/badge/Puppet-grey.svg?logo=puppet"><img src="https://img.shields.io/badge/Splunk-grey.svg?logo=splunk"><img src="https://img.shields.io/badge/Webstorm-grey.svg?logo=webstorm">
-
-I am currently working on a traditional pen and paper role-playing conversion to an API. I love working with open source and geospatial mapping, not all my interests are nerdy; I also love playing Chess and watching Star Trek :) 
-
-![5pence plays chess](board.gif) 
